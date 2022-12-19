@@ -12,7 +12,7 @@ export default class ThemeParkBack extends Component {
             <BackDiv>
                 <Card>
                     <h3>Theme Park Concession</h3>
-                    <p>An app that allows authenticated users to check out vinyls, and even add their own vinyls to the collection. You can even add existing vinyls to your own wishlist </p>
+                    <p>This app allows you to choose from a list of many different food items. You can add them to your cart and when you have selected all the food items you want, you then can go to your cart and see all the different items you chose and see what the prices are of each item. </p>
                     <h3>Technologies</h3>
                     <p>Languages - HTML5, CSS, React, Express, and Mongoose</p>
                     <p>Libraries - MongoDB</p>

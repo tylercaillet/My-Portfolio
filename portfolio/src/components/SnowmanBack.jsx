@@ -12,7 +12,7 @@ export default class SnowmanBack extends Component {
             <BackDiv>
                 <Card>
                     <h3>Snowman</h3>
-                    <p>An app that allows authenticated users to check out vinyls, and even add their own vinyls to the collection. You can even add existing vinyls to your own wishlist </p>
+                    <p>This is Hangman where you get assigned a catagory when you start the game, and you choose letter by letter to figure out what the word is. You have ten choices and if you dont get the word correct after ten tries then you lose.  </p>
                     <h3>Technologies</h3>
                     <p>Languages - HTML, CSS, Javascript</p>
                     <p>VS Code</p>
